@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "150993996289",
+    "firebase_url": "https://trapteam-cc.firebaseio.com",
+    "project_id": "trapteam-cc",
+    "storage_bucket": "trapteam-cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150993996289:android:c60d7948611e233f",
+        "android_client_info": {
+          "package_name": "com.trapteamcc.trapteamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150993996289-kvlutd6vhv4770npg31ul5c15tbauecb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-r2Qakv1SL3slHqxJzWmrqVKYwh9Ot8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
