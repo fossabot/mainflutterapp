@@ -1,4 +1,5 @@
 # trapteamapp
+[![codebeat badge](https://codebeat.co/badges/a4a01d62-eb45-419b-981f-9f6d7efa1412)](https://codebeat.co/projects/github-com-trapteamccnz-mainflutterapp-master)
 
 App for Trappers
 
